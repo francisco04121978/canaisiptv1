@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Band News
 http://45.175.61.242:4000/play/a0ae/index.m3u8
+#EXTINF:-1,Band Sports
+http://45.175.61.242:4000/play/a0a3/index.m3u8
